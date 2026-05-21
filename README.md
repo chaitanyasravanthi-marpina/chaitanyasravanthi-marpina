@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Collabrate on open source projects**
 
-- 👨‍💻 All of my projects are available at [chaitanya1.netlify.app](chaitanya1.netlify.app)
+- 👨‍💻 All of my projects are available at [https://chaitanya1.netlify.app](https://chaitanya1.netlify.app)
 
 - 📫 How to reach me **chaitanyasravanthi974@gmail.com**
 
@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyasravanthi-marpina&show_icons=true&locale=en" alt="chaitanyasravanthi-marpina" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyasravanthi-marpina&" alt="chaitanyasravanthi-marpina" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyasravanthi-marpina" alt="chaitanyasravanthi-marpina" /></p>
 
