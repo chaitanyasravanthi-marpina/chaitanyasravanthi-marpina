@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chaitanyasravanthi974@gmail.com**
 
-- ⚡ Fun fact **## ⚡ Fun Fact 🤖 I ask AI more doubts in a day than I ask humans in a month 😆**
+- ⚡ Fun fact **## 🤖 I ask AI more doubts in a day than I ask humans in a month 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
